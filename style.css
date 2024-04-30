@@ -1,0 +1,208 @@
+  
+body {
+    font-family: "Noto Serif Tangut", serif;
+    font-weight: 400;
+    padding: 0px;
+    margin: 0;
+    height: 100vh;
+    font-family: "Noto Serif Tangut", serif;
+    font-weight: 400;
+    padding: 0px;
+    margin: 0;
+    height: 100vh;
+}
+
+.anderson {
+    color: #344E41;
+}
+
+#area-foto {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+#foto {
+    width: 200px;
+    border: 2px solid black;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.container {
+    display: flex;
+}
+.left-column {
+    flex: 25%;
+    padding: 20px;
+    background-color:rgb(222, 232, 213);
+    height: 100vh;
+}
+.right-column {
+    flex: 75%;
+    padding: 20px;
+    background-color:rgb(233, 250, 227);
+    height: 100vh;
+
+}
+.dado_pessoal{
+    padding: 20px;
+}
+.formacao{
+    padding: 10px;
+}
+.fatec{
+    display: flex;
+}
+.habilidades{
+    padding: 10px;
+}
+.habilidades li {
+    padding: 10px;
+    font-size: small;
+    font-style: italic;
+}
+.cabecalho {
+    padding: 10px;
+}
+
+.experiencia {
+    padding: 10px;
+    text-align: justify;
+    letter-spacing: 1px;
+}
+
+.experiencia1 {
+    padding: 10px;
+    text-align: justify;
+    letter-spacing: 1px;
+}
+.experiencia2 {
+    padding: 10px;
+    text-align: justify;
+    letter-spacing: 1px;
+}
+.logo1{
+    display: flex;}
+
+.logo2{
+    display: flex;
+}
+
+.strong {
+    font-weight: 700;
+    font-size: 30px;
+    padding: 10px;
+}
+.line {
+    padding: 10px;
+    font-size: 15px; 
+    line-height: 1.5;
+}
+.strongest {
+    font-weight: 900;
+    font-size: 40px;
+    padding: 10px;
+}
+
+.linexp {
+    font-weight: 600;
+    font-size: 20px;
+    padding: 10px;
+}
+
+}
+#area-foto {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+#foto {
+    width: 200px;
+    border: 2px solid black;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.container {
+    display: flex;
+}
+.left-column {
+    flex: 25%;
+    padding: 20px;
+    background-color:rgb(222, 232, 213);
+    height: 100vh;
+}
+.right-column {
+    flex: 75%;
+    padding: 20px;
+    background-color:rgb(233, 250, 227);
+    height: 100vh;
+
+}
+.dado_pessoal{
+    padding: 20px;
+}
+.formacao{
+    padding: 10px;
+}
+.fatec{
+    display: flex;
+}
+.habilidades{
+    padding: 10px;
+}
+.habilidades li {
+    padding: 10px;
+    font-size: small;
+    font-style: italic;
+}
+.cabecalho {
+    padding: 10px;
+}
+
+.experiencia {
+    padding: 10px;
+    text-align: justify;
+    letter-spacing: 1px;
+}
+
+.experiencia1 {
+    padding: 10px;
+    text-align: justify;
+    letter-spacing: 1px;
+}
+.experiencia2 {
+    padding: 10px;
+    text-align: justify;
+    letter-spacing: 1px;
+}
+.logo1{
+    display: flex;}
+
+.logo2{
+    display: flex;
+}
+
+.strong {
+    font-weight: 700;
+    font-size: 30px;
+    padding: 10px;
+}
+.line {
+    padding: 10px;
+    font-size: 15px; 
+    line-height: 1.5;
+}
+.strongest {
+    font-weight: 900;
+    font-size: 40px;
+    padding: 10px;
+}
+
+.linexp {
+    font-weight: 600;
+    font-size: 20px;
+    padding: 10px;
+}
